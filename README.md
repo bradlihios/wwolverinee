@@ -1,3 +1,3 @@
-Hello world!
+#Very rough draft...
 
-Insert shit here.
+[Resume](resume.md)
